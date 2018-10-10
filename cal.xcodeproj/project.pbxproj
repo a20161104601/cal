@@ -298,8 +298,10 @@
 			children = (
 				F9BF6BF9216B9FE9003C287E /* Base */,
 			);
+			indentWidth = 5;
 			name = Main.storyboard;
 			sourceTree = "<group>";
+			tabWidth = 5;
 		};
 		F9BF6BFD216B9FEB003C287E /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
